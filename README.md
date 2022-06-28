@@ -1,7 +1,6 @@
 # Spring Boot Crud Ajax
 
-![Screenshot 2022-06-28 232353](https://user-images.githubusercontent.com/58525600/176268423-564af22c-07ee-4c5e-88fa-14e1d91d8147.png)
-
+![Screenshot 2022-06-28 233329](https://user-images.githubusercontent.com/58525600/176269741-4e51f6fa-9a3b-43cf-aef9-1407fed86e6c.png)
 ***
 | Name and Surname |Email| Address |
 |------------------|-----|---------|
